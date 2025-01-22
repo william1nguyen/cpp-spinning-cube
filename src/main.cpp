@@ -4,8 +4,8 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <iostream>
-#include "env.h"
-#include "cube.h"
+#include "includes/env.h"
+#include "includes/cube.h"
 
 Cube cube;
 double A = 0, B = 0, C = 0;
